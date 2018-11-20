@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="label_light">Light Sensor: %1$.2f</string>
+    <string name="label_ambientTemp">Ambient Temp Sensor: %1$.2f</string>
+    <string name="label_pressure">Pressure Sensor: %1$.2f</string>
+
+    <string name="error_no_sensor">No sensor</string>
+</resources>
